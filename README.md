@@ -94,8 +94,6 @@ https://github.com/adityamohancse/Task-Manager
 
 ---
 
----
-
 # 🌐 Connect With Me
 
 <p align="center">
