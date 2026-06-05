@@ -1,4 +1,4 @@
-```md id="x8m4qa"
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Aditya%20Mohan%20Jha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Django%20Developer%20|%20REST%20API%20Engineer&descAlignY=58&descSize=18" />
 </p>
