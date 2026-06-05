@@ -1,88 +1,98 @@
-# 👋 Hey there! I'm Aditya Mohan Jha
+<h1 align="center">Hi 👋, I'm Aditya Mohan Jha</h1>
 
-💻 Software Developer | Backend Developer | Django Enthusiast  
-🚀 Passionate about building scalable web applications and REST APIs  
-📍 Bengaluru, India  
+<h3 align="center">
+Backend Developer • Django Developer • REST API Engineer
+</h3>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.E CSE Student (2022–2026) | CGPA: 8.1
-- 🏢 Software Developer Intern at Tap Academy
-- 🧠 Strong in Python, Django, REST APIs & MySQL
-- 🔥 Interested in Backend Development & AI Applications
-- 📚 Currently improving DSA & System Design
-- ⚡ Love building real-world projects
+<p align="center">
+Building scalable backend systems with Django, DRF & PostgreSQL
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 About Me
 
-### 🛒 Full Stack E-Commerce Website
-- Django + DRF + MySQL + PayPal API
-- Authentication, Orders, Payments
-- Node.js microservice integration
+- 🎓 B.E CSE Student (2022–2026)
+- 💼 Software Developer Intern at Tap Academy
+- 🧠 Strong in Django, REST APIs, MySQL & PostgreSQL
+- ⚡ Building Full Stack & AI-based applications
+- 📍 Bengaluru, India
 
-### ✅ Full Stack Task Manager
-- Django REST Framework + MySQL
-- JWT Authentication
-- CRUD APIs with filtering & pagination
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/adityamohancse">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/adityamohancse">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/DRF-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Backend
+Django + DRF + PayPal API + MySQL + Node.js Microservice
+
+### ✅ Task Manager System
+JWT Auth + CRUD APIs + Filtering + Pagination
 
 ### 🤖 AI-Powered Document Q&A
-- AI-based document understanding system
-- Semantic search + intelligent responses
+AI-based semantic document search & response system
 
 ---
 
-# 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-## 👨‍💻 Languages
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityamohancse&show_icons=true&theme=tokyonight"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamohancse&layout=compact&theme=tokyonight"/>
 
-## ⚙️ Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
-
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
-## 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## ⚡ Fun Fact
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamohancse&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamohancse&layout=compact&theme=tokyonight)
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Mohan%20Jha-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adityamohancse)
-
-[![GitHub](https://img.shields.io/badge/GitHub-adityamohancse-black?style=for-the-badge&logo=github)](https://github.com/adityamohancse)
-
-📧 Email: mohanjhaaditya74@gmail.com
-
----
-
-⭐ Building scalable backend systems with clean architecture.
+I enjoy building production-style backend systems and scalable APIs.
