@@ -67,8 +67,6 @@ Building scalable backend systems, REST APIs, and modern full-stack applications
 ---
 
 # 🚀 Top Projects
-```md id="u7m2lp"
-# 🚀 Top Projects
 
 ## 🛒 Full Stack E-Commerce Website
 **Django • DRF • MySQL • PayPal API • Node.js**
