@@ -1,4 +1,4 @@
-
+```md id="x8m4qa"
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Aditya%20Mohan%20Jha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Django%20Developer%20|%20REST%20API%20Engineer&descAlignY=58&descSize=18" />
 </p>
@@ -66,87 +66,31 @@ Building scalable backend systems, REST APIs, and modern full-stack applications
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Top Projects
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%">
+<a href="https://github.com/adityamohancse/ecommerce-project">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamohancse&repo=ecommerce-project&theme=tokyonight&hide_border=true" />
+</a>
 
-### 🛒 E-Commerce Website
+<a href="https://github.com/adityamohancse/task-manager">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamohancse&repo=task-manager&theme=tokyonight&hide_border=true" />
+</a>
 
-Production-style backend platform built using Django & DRF.
+</p>
 
-#### ⚡ Tech Stack
-- Django
-- DRF
-- MySQL
-- PayPal API
-- Node.js
+<p align="center">
 
-#### ✨ Features
-- Authentication & Authorization
-- Payment Integration
-- Order Management
-- REST APIs
+<a href="https://github.com/adityamohancse/ai-document-qa">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamohancse&repo=ai-document-qa&theme=tokyonight&hide_border=true" />
+</a>
 
-</td>
+<a href="https://github.com/adityamohancse/django-backend">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamohancse&repo=django-backend&theme=tokyonight&hide_border=true" />
+</a>
 
-<td width="50%">
-
-### ✅ Task Manager System
-
-Backend-focused task management application with JWT auth.
-
-#### ⚡ Tech Stack
-- Django REST Framework
-- JWT
-- MySQL
-- JavaScript
-
-#### ✨ Features
-- CRUD Operations
-- Filtering & Pagination
-- User Authentication
-- Responsive Dashboard
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI-Powered Document Q&A
-
-AI-powered semantic document response system.
-
-#### ⚡ Tech Stack
-- Python
-- AI/NLP
-- Semantic Search
-
-#### ✨ Features
-- Contextual Responses
-- Intelligent Search
-- Document Understanding
-
-</td>
-
-<td width="50%">
-
-### 📈 Currently Learning
-
-- Advanced Backend Systems
-- AI Engineering
-- Scalable REST APIs
-- System Design
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
