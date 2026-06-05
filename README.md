@@ -94,19 +94,6 @@ https://github.com/adityamohancse/Task-Manager
 
 ---
 
-## 🤖 AI-Powered Document Q&A
-**Python • AI/NLP • Semantic Search**
-
-- Built an intelligent document understanding and semantic search system.
-- Implemented context-aware response generation using AI workflows.
-- Focused on scalable backend architecture for AI-powered applications.
-
-🔗 Repository:  
-https://github.com/adityamohancse/YOUR-REPO-NAME
-```
-
-
-
 ---
 
 # 🌐 Connect With Me
