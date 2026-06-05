@@ -66,15 +66,16 @@ Building scalable backend systems, REST APIs, and modern full-stack applications
 
 ---
 
+```md
 # 🚀 Top Projects
 
 ## 🛒 Full Stack E-Commerce Website
-**Django • DRF • MySQL • PayPal API • Node.js**
+**Django • MySQL • DRF • JavaScript • 2025**
 
-- Production-style backend architecture
-- Secure authentication & authorization
-- Payment integration using PayPal API
-- Order & product management system
+- Designed a responsive frontend using HTML, CSS, and JavaScript with Django-templated views.
+- Built a production-style e-commerce backend with authentication, product catalog, and order management.
+- Designed optimized MySQL-backed models and queries for products, orders, and reviews.
+- Applied OOP and modular architecture in Django REST endpoints with strong validation and error handling.
 
 🔗 Repository:  
 https://github.com/adityamohancse/greatkart
@@ -82,12 +83,12 @@ https://github.com/adityamohancse/greatkart
 ---
 
 ## ✅ Full Stack Task Manager
-**Django REST Framework • JWT • MySQL**
+**Django REST Framework • MySQL • JWT • JavaScript • 2026**
 
-- JWT Authentication & Authorization
-- CRUD APIs with filtering & pagination
-- Responsive frontend dashboard
-- Optimized database operations
+- Built a task management system with full CRUD functionality and JWT authentication.
+- Implemented filtering, pagination, and optimized API workflows.
+- Developed responsive frontend dashboard with search and real-time interactions.
+- Applied modular backend architecture with serializer validation and secure authorization.
 
 🔗 Repository:  
 https://github.com/adityamohancse/Task-Manager
@@ -97,12 +98,13 @@ https://github.com/adityamohancse/Task-Manager
 ## 🤖 AI-Powered Document Q&A
 **Python • AI/NLP • Semantic Search**
 
-- Intelligent document understanding system
-- Context-aware semantic search
-- AI-powered response generation
+- Built an intelligent document understanding and semantic search system.
+- Implemented context-aware response generation using AI workflows.
+- Focused on scalable backend architecture for AI-powered applications.
 
 🔗 Repository:  
 https://github.com/adityamohancse/YOUR-REPO-NAME
+```
 
 
 
