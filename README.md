@@ -66,7 +66,6 @@ Building scalable backend systems, REST APIs, and modern full-stack applications
 
 ---
 
-```md
 # 🚀 Top Projects
 
 ## 🛒 Full Stack E-Commerce Website
