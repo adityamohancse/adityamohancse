@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aditya%20Mohan%20Jha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Django%20Developer%20|%20REST%20API%20Engineer&descAlignY=58&descSize=18" />
 </p>
@@ -15,7 +15,7 @@ Building scalable backend systems, REST APIs, and modern full-stack applications
   <a href="https://github.com/adityamohancse">
     <img src="https://img.shields.io/github/followers/adityamohancse?label=Followers&style=for-the-badge&color=1f6feb&logo=github" />
   </a>
-  
+
   <a href="https://linkedin.com/in/adityamohancse">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
