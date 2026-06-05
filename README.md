@@ -67,30 +67,46 @@ Building scalable backend systems, REST APIs, and modern full-stack applications
 ---
 
 # 🚀 Top Projects
+```md id="u7m2lp"
+# 🚀 Top Projects
 
-<p align="center">
+## 🛒 Full Stack E-Commerce Website
+**Django • DRF • MySQL • PayPal API • Node.js**
 
-<a href="https://github.com/adityamohancse/ecommerce-project">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamohancse&repo=ecommerce-project&theme=tokyonight&hide_border=true" />
-</a>
+- Production-style backend architecture
+- Secure authentication & authorization
+- Payment integration using PayPal API
+- Order & product management system
 
-<a href="https://github.com/adityamohancse/task-manager">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamohancse&repo=task-manager&theme=tokyonight&hide_border=true" />
-</a>
+🔗 Repository:  
+https://github.com/adityamohancse/greatkart
 
-</p>
+---
 
-<p align="center">
+## ✅ Full Stack Task Manager
+**Django REST Framework • JWT • MySQL**
 
-<a href="https://github.com/adityamohancse/ai-document-qa">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamohancse&repo=ai-document-qa&theme=tokyonight&hide_border=true" />
-</a>
+- JWT Authentication & Authorization
+- CRUD APIs with filtering & pagination
+- Responsive frontend dashboard
+- Optimized database operations
 
-<a href="https://github.com/adityamohancse/django-backend">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=adityamohancse&repo=django-backend&theme=tokyonight&hide_border=true" />
-</a>
+🔗 Repository:  
+https://github.com/adityamohancse/Task-Manager
 
-</p>
+---
+
+## 🤖 AI-Powered Document Q&A
+**Python • AI/NLP • Semantic Search**
+
+- Intelligent document understanding system
+- Context-aware semantic search
+- AI-powered response generation
+
+🔗 Repository:  
+https://github.com/adityamohancse/YOUR-REPO-NAME
+```
+
 
 ---
 
