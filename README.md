@@ -32,35 +32,10 @@
 
 ## Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
-</p>
-
-### DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
-</p>
-
-### AI & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,vscode" />
-</p>
+<p><strong>Frontend:</strong> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind" /></p>
+<p><strong>Backend:</strong> <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" /></p>
+<p><strong>Database:</strong> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /></p>
+<p><strong>Tools:</strong> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" /></p>
 
 ---
 
