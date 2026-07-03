@@ -1,6 +1,3 @@
-# Aditya Mohan Jha
-### Software Development Engineer | Full-Stack Developer | React • Node.js • Python • AI
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=240&section=header&text=Aditya%20Mohan%20Jha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
 </p>
