@@ -58,13 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamohancse&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamohancse&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityamohancse&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
