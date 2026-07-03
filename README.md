@@ -1,12 +1,12 @@
 # Aditya Mohan Jha
-### Software Development Engineer | Full Stack Developer | React | Node.js | Python | Django | AI
+### Software Development Engineer | Full-Stack Developer | React • Node.js • Python • AI
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=180&section=header&text=Aditya%20Mohan%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=240&section=header&text=Aditya%20Mohan%20Jha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Backend+Engineer;REST+API+Builder;AI+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+scalable+web+applications;Backend+Engineer+focused+on+REST+APIs;Full+Stack+Developer+with+AI+experience;Django,+Node.js,+React,+and+Python" />
 </p>
 
 <p align="center">
@@ -19,182 +19,121 @@
   <a href="https://github.com/adityamohancse">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/adityamohancse/resume-powered-portfolio-website">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
-## Overview
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## About Me
 
-<strong>About Me</strong><br/><br/>
-2026 Computer Science graduate from Bengaluru with hands-on experience in full-stack development, backend engineering, REST APIs, and AI-powered applications.<br/><br/>
-• Software Development Intern at <strong>Tap Academy</strong><br/>
-• Focused on scalable systems, APIs, and modern web apps<br/>
-• Interested in Full Stack Development and AI applications
+2026 Computer Science graduate from Bengaluru with hands-on experience in full-stack development, backend engineering, REST APIs, and AI-powered applications. I build clean, scalable systems using React, Node.js, Express, Python, Django, MySQL, PostgreSQL, and MongoDB.
 
-    </td>
-    <td width="50%" valign="top">
+- Software Development Intern at **Tap Academy**
+- Focused on backend systems, scalable APIs, and modern web applications
+- Interested in Full Stack Development, System Design, and AI applications
 
-<strong>GitHub Stats</strong><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=adityamohancse&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="100%" />
+---
 
-    </td>
-  </tr>
-</table>
+## Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts" />
+</p>
 
-<strong>Tech Stack</strong><br/><br/>
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
 
-<strong>Frontend</strong><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind" />
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
-<br/><strong>Backend</strong><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
+</p>
 
-<br/><strong>Database</strong><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+### DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
+</p>
 
-<br/><strong>Tools</strong><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+### AI & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode" />
+</p>
 
-    </td>
-    <td width="50%" valign="top">
-
-<strong>GitHub Streak</strong><br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamohancse&theme=github-dark-blue&hide_border=true" width="100%" />
-
-    </td>
-  </tr>
-</table>
+---
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+| Project | Description | Tech |
+| --- | --- | --- |
+| **AI-Powered Job Preparation Platform** | Full-stack GenAI platform for resume upload, JD analysis, and skill-gap detection. | React, Node, Express, MongoDB, JWT, Gemini AI |
+| **Full Stack E-Commerce Website** | Production-style commerce backend with auth, catalog management, and order workflows. | Python, Django, MySQL, DRF, JavaScript |
+| **Task Manager System** | CRUD task management app with authentication, filtering, pagination, and secure user access. | Django REST Framework, MySQL, JavaScript |
+| **Contact Analytics Platform** | Contact workflow system for structured records, searchable insights, and reporting. | React, Node.js, REST APIs, PostgreSQL |
+| **Portfolio Website** | Personal developer portfolio with modern UI, responsive layout, and contact integration. | React, HTML, CSS, JavaScript |
 
-<strong>AI Document Q&A System</strong><br/><br/>
+---
 
-Secure AI workflow for document upload, content extraction, and contextual question answering.
-
-`React` `Node.js` `Python` `AI` `REST APIs`
-
-<em>Private / In progress</em>
-
-    </td>
-    <td width="50%" valign="top">
-
-<strong>Django E-Commerce Backend</strong><br/><br/>
-
-Production-style commerce backend with authentication, catalog management, and order workflows.
-
-`Python` `Django` `MySQL` `DRF`
-
-<a href="https://github.com/adityamohancse/greatkart"><strong>Repo</strong></a>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-<strong>Contact Analytics Platform</strong><br/><br/>
-
-Analytics-driven contact management system with structured records and event tracking.
-
-`Python` `Django` `PostgreSQL`
-
-<a href="https://github.com/adityamohancse/Contact-Analytics-Platform"><strong>Repo</strong></a>
-
-    </td>
-    <td width="50%" valign="top">
-
-<strong>Task Manager</strong><br/><br/>
-
-Clean task management app with CRUD flows, filtering, pagination, and secure user access.
-
-`HTML` `JavaScript` `Django REST Framework`
-
-<a href="https://github.com/adityamohancse/Task-Manager"><strong>Repo</strong></a>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-<strong>Portfolio Website</strong><br/><br/>
-
-Minimal personal portfolio with responsive sections and modern developer branding.
-
-`JavaScript` `HTML` `CSS`
-
-<a href="https://github.com/adityamohancse/resume-powered-portfolio-website"><strong>Repo</strong></a>
-
-    </td>
-    <td width="50%" valign="top">
-
-<strong>Current Build Direction</strong><br/><br/>
-
-A compact, recruiter-friendly portfolio setup focused on readability and strong visual hierarchy.
-
-`React` `GitHub README` `Design Systems`
-
-    </td>
-  </tr>
-</table>
-
-## Experience Timeline
-
-<table>
-  <tr>
-    <td width="30%"><strong>Software Development Intern</strong><br/>Tap Academy</td>
-    <td width="70%">
-      Developed REST APIs and backend modules, worked with Django, handled Git collaboration, and designed database logic for production-style workflows.
-    </td>
-  </tr>
-</table>
-
-## Contribution Graph
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamohancse&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityamohancse&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamohancse&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityamohancse/adityamohancse/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamohancse&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
-
-## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adityamohancse&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
+---
+
+## Experience Timeline
+
+### Software Development Intern — Tap Academy
+**Jan 2026 – May 2026 | Bengaluru, India**
+
+- Developed REST APIs and backend modules using React.js, Node.js, Express.js, Python, and Django.
+- Worked on reusable UI components and improved application performance.
+- Designed and optimized MySQL/PostgreSQL queries and backend logic using OOP principles.
+- Tested workflows, validated API responses, identified defects, and collaborated through Git/GitHub.
+
+---
+
+## Achievements
+
+- Built multiple production-ready full-stack projects
+- Strong understanding of REST APIs and backend development
+- Hands-on experience with full stack development and AI-powered applications
+- Solved 300+ coding problems from Striver’s A2Z DSA Sheet
+- Secured AIR 2634 in NCAT 2026
+
+---
+
 ## Current Focus
 
-<table>
-  <tr>
-    <td width="50%">
-      Scalable backend systems<br/>
-      React + Node applications<br/>
-      AI-powered workflows
-    </td>
-    <td width="50%">
-      System design<br/>
-      Open source contributions<br/>
-      Building polished developer tools
-    </td>
-  </tr>
-</table>
+- Scalable Backend Systems
+- React + Node Applications
+- AI Applications
+- System Design
+- Open Source
 
-> Building reliable systems with clean architecture, strong APIs, and thoughtful user experience.
+---
+
+## Education
+
+**Don Bosco Institute of Technology, Bengaluru**  
+B.E. in Computer Science & Engineering | 2022 – 2026 | CGPA: 8.1/10
+
+---
 
 ## Connect With Me
 
