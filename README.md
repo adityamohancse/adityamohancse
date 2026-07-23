@@ -45,7 +45,7 @@
 | --- | --- | --- |
 | **AI-Powered Job Preparation Platform** | Full-stack GenAI platform for resume upload, JD analysis, and skill-gap detection. | React, Node, Express, MongoDB, JWT, Gemini AI |
 | **Full Stack E-Commerce Website** | Production-style commerce backend with auth, catalog management, and order workflows. | Python, Django, MySQL, DRF, JavaScript |
-| **Car Rental ** | Full-stack MERN car rental platform with secure authentication, admin dashboard, and online booking. | React, Express, MongoDB, JWT, JavaScript |
+| **Car Rental** | Full-stack MERN car rental platform with secure authentication, admin dashboard, and online booking. | React, Express, MongoDB, JWT, JavaScript |
 | **Contact Analytics Platform** | Contact workflow system for structured records, searchable insights, and reporting. | React, Node.js, REST APIs, PostgreSQL |
 | **Portfolio Website** | Personal developer portfolio with modern UI, responsive layout, and contact integration. | React, HTML, CSS, JavaScript |
 
