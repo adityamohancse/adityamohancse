@@ -1,24 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=250&section=header&text=Aditya%20Mohan%20Jha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20AI-Integrated%20Applications&descAlignY=52&descSize=17" width="100%"/>
+# Aditya Mohan Jha
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=21&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+scalable+full-stack+applications;Engineering+RAG+%26+AI-integrated+systems;Designing+secure%2C+production-ready+REST+APIs;300%2B+DSA+problems+solved+%7C+Striver+A2Z+Sheet" />
+**Software Engineer · Full-Stack Development · AI-Integrated Systems**
 
-<br/>
+Bengaluru, India
 
 <a href="https://linkedin.com/in/adityamohancse">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:mohanjhaaditya74@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-mohanjhaaditya74%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/adityamohancse">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-adityamohancse-333333?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
+
+---
 
 ## 👋 About Me
 
@@ -33,41 +37,16 @@ looking_for:   Software Engineering roles in Full-Stack / Backend / AI-integrate
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,js,c" /></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,html,css" /></p>
-
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /></p>
-
-</td>
-<td valign="top" width="50%">
-
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /></p>
-
-**Tools & Practices**
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,postman" /></p>
-
-**AI / LLM**
-<p>
-<img src="https://img.shields.io/badge/RAG-1a1a2e?style=flat-square" />
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square" />
-<img src="https://img.shields.io/badge/PydanticAI-E92063?style=flat-square" />
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
+| Category | Stack |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white) ![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=1572B6) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express.js-333333?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=009688) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248) |
+| **AI / LLM** | ![RAG](https://img.shields.io/badge/RAG-333333?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-333333?style=flat-square) ![PydanticAI](https://img.shields.io/badge/PydanticAI-333333?style=flat-square) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-333333?style=flat-square&logo=googlegemini&logoColor=8E75B2) |
+| **Tools & Practices** | ![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=2496ED) ![Postman](https://img.shields.io/badge/Postman-333333?style=flat-square&logo=postman&logoColor=FF6C37) ![JWT/OAuth](https://img.shields.io/badge/JWT%2FOAuth-333333?style=flat-square&logo=jsonwebtokens&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-333333?style=flat-square&logo=githubactions&logoColor=2088FF) |
 
 <br/>
 
