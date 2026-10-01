@@ -1,148 +1,89 @@
-<div align="center">
-
 # Aditya Mohan Jha
 
-**Software Engineer · Full-Stack Development · AI-Integrated Systems**
+**Software Engineer · Full-Stack & Backend Development · AI-Integrated Systems**
 
-Bengaluru, India
+📍 Bengaluru, India · Open to relocate
 
-<a href="https://linkedin.com/in/adityamohancse">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:mohanjhaaditya74@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mohanjhaaditya74%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/adityamohancse">
-  <img src="https://img.shields.io/badge/GitHub-adityamohancse-333333?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityamohancse) [![Email](https://img.shields.io/badge/Email-mohanjhaaditya74%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanjhaaditya74@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-adityamohancse-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/adityamohancse)
 
 ---
 
 ## 👋 About Me
 
-I'm a **Computer Science graduate (2026)** from Bengaluru with a strong foundation in **data structures, algorithms, and object-oriented design** — backed by 300+ solved DSA problems. I've worked across the full development lifecycle, building and testing REST APIs, relational/NoSQL databases, and production-grade **web and AI-integrated applications** in Agile/Scrum teams.
+I'm a **Computer Science graduate (B.E., 2026)** from Bengaluru with 8+ months of hands-on experience building **Python/FastAPI and Node.js REST APIs**, **React** interfaces, and **AI-integrated applications** such as RAG pipelines and conversational automation. I've resolved 20+ defects through root-cause analysis in Agile teams and worked closely with engineering, product, and business stakeholders.
 
-```yaml
-role:          Software Developer Intern @ Tap Academy
-focus:         Full-Stack Development · System Design · Retrieval-Augmented Generation
-currently:     Shipping production APIs & exploring LLM orchestration
-looking_for:   Software Engineering roles in Full-Stack / Backend / AI-integrated systems
-```
+I enjoy turning real-world requirements into reliable, well-tested software.
 
-<br/>
+- **Role:** Software Engineer (recent graduate)
+- **Focus:** Full-Stack Development · Backend APIs · RAG · Conversational Automation
+- **Recent:** Software Developer Intern at eComSuite and Tap Academy
+- **Building:** LLM assistants, RAG pipelines, FastAPI services
+- **Looking for:** Software Engineering roles in Full-Stack, Backend, and AI-integrated systems
+- **Location:** Bengaluru, India (open to relocate)
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 
 | Category | Stack |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white) ![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=1572B6) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express.js-333333?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=009688) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248) |
-| **AI / LLM** | ![RAG](https://img.shields.io/badge/RAG-333333?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-333333?style=flat-square) ![PydanticAI](https://img.shields.io/badge/PydanticAI-333333?style=flat-square) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-333333?style=flat-square&logo=googlegemini&logoColor=8E75B2) |
-| **Tools & Practices** | ![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=2496ED) ![Postman](https://img.shields.io/badge/Postman-333333?style=flat-square&logo=postman&logoColor=FF6C37) ![JWT/OAuth](https://img.shields.io/badge/JWT%2FOAuth-333333?style=flat-square&logo=jsonwebtokens&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-333333?style=flat-square&logo=githubactions&logoColor=2088FF) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=009688) ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express.js-333333?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-333333?style=flat-square) ![OpenAPI](https://img.shields.io/badge/OpenAPI-333333?style=flat-square&logo=openapiinitiative&logoColor=6BA539) |
+| **AI / LLM** | ![RAG](https://img.shields.io/badge/RAG-333333?style=flat-square) ![LLM Assistants](https://img.shields.io/badge/LLM_Assistants-333333?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-333333?style=flat-square&logo=postgresql&logoColor=white) ![PydanticAI](https://img.shields.io/badge/PydanticAI-333333?style=flat-square&logo=pydantic&logoColor=E92063) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248) ![Supabase](https://img.shields.io/badge/Supabase-333333?style=flat-square&logo=supabase&logoColor=3ECF8E) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=F05032) ![Postman](https://img.shields.io/badge/Postman-333333?style=flat-square&logo=postman&logoColor=FF6C37) ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-333333?style=flat-square&logo=jira&logoColor=0052CC) ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-333333?style=flat-square&logo=googlechrome&logoColor=white) |
 
-<br/>
+**Core & practices:** DSA · OOP · DBMS · OS · Networks · Agile/Scrum · SDLC · Root-Cause Analysis · Unit Testing · Code Review
 
-## 💼 Experience
-
-<table>
-<tr>
-<td>
-
-**Software Developer Intern · Tap Academy**
-`Jan 2026 – Jul 2026` · Bengaluru, India
-
-- Delivered **8+ full-stack features** using React.js, Node.js, and Express.js in a cross-functional Agile/Scrum team
-- Designed and built **15+ RESTful API endpoints** with request/response validation and robust error handling
-- Implemented **JWT authentication, OAuth authorization**, and third-party API integrations for secure, scalable access
-- Debugged and validated APIs with Postman — resolved **12 critical defects** before release
-- Produced API documentation and drove Agile delivery through code reviews, sprint planning, and Git/GitHub collaboration
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 📄 Document Copilot: RAG-Based SEC Filing Research Assistant
 
-### 🔍 [Document Copilot](https://github.com/adityamohancse)
-**RAG-Based SEC Filing Research Assistant**
+`FastAPI` `PostgreSQL / pgvector` `PydanticAI` `Supabase` `React`
 
-Full-stack retrieval-augmented generation platform letting analysts query a SEC filing corpus via a React chat UI, returning **cited, hallucination-checked answers**.
+- Built a **hybrid retrieval pipeline** combining pgvector similarity search and keyword search in PostgreSQL, powering natural-language Q&A over a corpus of SEC filings through a Python/FastAPI RAG backend.
+- Shipped a React chat interface for real-time conversation with the assistant, using Pydantic and PydanticAI to enforce request/response schemas and catch backend–UI contract mismatches during development.
 
-- Hybrid retrieval — pgvector semantic search + PostgreSQL full-text search, fused with **Reciprocal Rank Fusion (RRF)**
-- Typed LLM orchestration layer built with **PydanticAI**, plus a citation-validation service that blocks unsupported answers
-- Real-time streaming chat via **Vercel AI SDK**, JWT-based Supabase Auth
-- Schema managed with SQLAlchemy + Alembic migrations, deployed as independent services on Railway
+👉 [View repository](https://github.com/adityamohancse)
 
-`React` `FastAPI` `PostgreSQL/pgvector` `PydanticAI` `Supabase`
+### 🤖 Conversational Process Automation Assistant
 
-</td>
-<td width="50%" valign="top">
+`FastAPI` `Conversational AI` `OpenAPI`
 
-### 🚗 [CarRental](https://github.com/adityamohancse)
-**Full-Stack Car Rental Platform**
+- Built a process automation assistant on FastAPI that automates three ticket workflows (laptop request, password reset, system access) through an OpenAPI-specified service.
+- Guided users through **field collection and validation**, with policy Q&A grounded in search.
+- Implemented a **human-agent handoff** that escalates on repeated failures or user frustration, passing the issue, collected fields, and sentiment to the agent.
+- Validated with 10 scripted test conversations scored on a Pass / Partial / Fail rubric.
 
-Production-style MERN platform for vehicle browsing, online booking, and booking management with secure authentication.
+👉 [View repository](https://github.com/adityamohancse)
 
-- Scalable REST APIs built with **Express.js + MongoDB** for vehicles, bookings, and availability
-- **JWT authentication**, role-based authorization, and protected routes
-- Cloud image storage via **ImageKit**
-- Deployed with a production-ready split architecture — frontend on **Vercel**, backend on **Render**
+---
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `ImageKit`
+## 💼 Experience
 
-</td>
-</tr>
-</table>
+**Software Developer Intern, eComSuite** · Bengaluru · Aug 2026 – Sep 2026
 
-<br/>
+- Gathered requirements from developers, product, and marketing stakeholders and documented them for the engineering team, supporting end-to-end delivery of UI/JavaScript features.
+- Ran end-to-end QA and resolved 10+ defects before deployment, tracing recurring workflow issues to root cause and tracking each to closure in JIRA.
 
-## 🏆 Achievements
+**Software Developer Intern, Tap Academy** · Bengaluru · Jan 2026 – Jul 2026
 
-- 🧩 **300+ DSA problems solved** (Striver A2Z Sheet) — arrays, trees, graphs, and dynamic programming
-- 📈 Applied complexity analysis and structured problem-solving to build strong coding-interview readiness
+- Delivered 8+ full-stack components (React.js, Node.js, Express.js) and 15+ REST API endpoints with validated authentication, error handling, and input validation in an Agile/Scrum team; tested every endpoint in Postman.
+- Resolved 12 production defects across network, console, and UI rendering layers using Chrome DevTools debugging, unit testing, and peer code review.
 
-<br/>
+---
 
 ## 🎓 Education
 
-**Don Bosco Institute of Technology, Bengaluru**
-B.E., Computer Science & Engineering · `2022 – 2026` · CGPA: **8.1 / 10**
+**Don Bosco Institute of Technology, Bengaluru** · 2022 – 2026
 
-<br/>
+B.E., Computer Science & Engineering · CGPA: 8.0 / 10
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityamohancse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamohancse&theme=tokyonight&hide_border=true" height="165" />
-</div>
+## 📫 Let's Connect
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamohancse&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📫 Let's Connect
-
-**mohanjhaaditya74@gmail.com** · Bengaluru, India · [linkedin.com/in/adityamohancse](https://linkedin.com/in/adityamohancse)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=100&section=footer" width="100%"/>
-
-</div>
+I'm open to Software Engineering roles across full-stack, backend, and AI-integrated systems. Reach me at [mohanjhaaditya74@gmail.com](mailto:mohanjhaaditya74@gmail.com) or on [LinkedIn](https://linkedin.com/in/adityamohancse).
