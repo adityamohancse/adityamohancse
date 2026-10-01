@@ -56,7 +56,7 @@ I've resolved **20+ defects** through root-cause analysis in Agile teams and enj
 - 🙋 **Human-agent handoff** on repeated failures or user frustration, passing issue, fields, and sentiment
 - 🧪 Validated with **10 scripted conversations** on a Pass / Partial / Fail rubric
 
-[![View Repository](https://img.shields.io/badge/View_Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityamohancse)
+[![View Repository](https://github.com/adityamohancse/cognitive-process-automation-assistant)
 
 ---
 
